@@ -1,7 +1,7 @@
 # study
 学习
 
-![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=liuhuiwuwenhui&show_icons=true&theme=tokyonight)
+![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=liuhuiwuwenhui&show_icons=true&theme=dark)
 
 ![GitHub账户最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=liuhuiwuwenhui&layout=compact&theme=tokyonight)
 
