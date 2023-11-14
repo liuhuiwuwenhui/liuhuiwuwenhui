@@ -7,7 +7,7 @@
 
 ![GitHub仓库信息卡片](https://github-stats.ubrong.com/api/pin/?username=liuhuiwuwenhui&repo=study&theme=dark)
 
-![github统计](https://stats.justsong.cn/api/github?username=songquanpeng)
+![github统计](https://stats.justsong.cn/api/github?username=liuhuiwuwenhui)
 
 ![B站统计](https://stats.justsong.cn/api/bilibili/?id=1643462710&theme=dark)
 
