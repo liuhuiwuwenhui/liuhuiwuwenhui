@@ -1,6 +1,8 @@
 # study
 学习
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
 ![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=liuhuiwuwenhui&show_icons=true&theme=tokyonight)
 
 ![GitHub账户最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=liuhuiwuwenhui&layout=compact&theme=tokyonight)
