@@ -10,7 +10,7 @@
 ![github统计](https://stats.justsong.cn/api/github?username=liuhuiwuwenhui&theme=dark)
 ![github统计](https://stats.justsong.cn/api/github?username=liuhuiwuwenhui&theme=dark&lang=zh-CN)
 
-![B站统计](https://stats.justsong.cn/api/bilibili/?id=1643462710&theme=dark)
+![B站统计](https://stats.justsong.cn/api/bilibili/?id=1770566488&theme=dark)
 
 ![Visitor Count](https://profile-counter.glitch.me/{liuhuiwuwenhui}/count.svg) 
 
