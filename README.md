@@ -5,11 +5,11 @@
 
 ![GitHub账户最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=liuhuiwuwenhui&layout=compact&theme=tokyonight)
 
-![GitHub仓库信息卡片](https://stats.justsong.cn/api/leetcode/?username=quanpeng&theme=dark)
+![GitHub仓库信息卡片](https://github-stats.ubrong.com/api/pin/?username=liuhuiwuwenhui&repo=study&theme=dark)
 
-![github统计](https://stats.justsong.cn/api/github?username=liuhuiwuwenhui&theme=dark&lang=zh-CN)
+![github统计](https://stats.justsong.cn/api/github?username=songquanpeng)
 
-![B站统计](https://stats.justsong.cn/api/bilibili/?id=1770566488&theme=dark&lang=zh-CN)
+![B站统计](https://stats.justsong.cn/api/bilibili/?id=1643462710&theme=dark)
 
 ![Visitor Count](https://profile-counter.glitch.me/{liuhuiwuwenhui}/count.svg) 
 
