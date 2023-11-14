@@ -5,7 +5,7 @@
 
 ![GitHub账户最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=liuhuiwuwenhui&layout=compact&theme=tokyonight)
 
-![GitHub仓库信息卡片](https://github-stats.ubrong.com/api/pin/?username=liuhuiwuwenhui&repo=study&theme=dark)
+![GitHub仓库信息卡片](https://stats.justsong.cn/api/leetcode/?username=quanpeng&theme=dark)
 
 ![github统计](https://stats.justsong.cn/api/github?username=liuhuiwuwenhui&theme=dark&lang=zh-CN)
 
